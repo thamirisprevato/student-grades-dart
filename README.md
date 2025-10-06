@@ -1,4 +1,4 @@
-# 🎓 Student Grades CLI
+# 🎓 Student Grades Dart
 
 Um aplicativo simples de linha de comando em **Dart** para registrar alunos, adicionar notas e calcular médias diretamente no terminal.  
 O projeto inclui uma arte ASCII personalizada para deixar a experiência mais divertida e nostálgica.
